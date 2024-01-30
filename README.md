@@ -1,9 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+link to clone the repository: (https://github.com/Danield05/Wordle-Game.git)
 
 ## Available Scripts
-
+Enter the folder path before continuing..
+### `cd wordle-game`
 In the project directory, you can run:
 
 ### `yarn start`
